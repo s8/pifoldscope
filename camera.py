@@ -4,6 +4,6 @@ from time import sleep
 camera = PiCamera()
 
 camera.start_preview()
-camera.annotate_text = "NovoAidar"
-sleep(100)
+# camera.annotate_text = "NovoAidar"
+sleep(10)
 camera.stop_preview()
