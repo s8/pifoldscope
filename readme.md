@@ -1,4 +1,4 @@
-## This is a repository for the digital microscope based on RaspberryPi and Foldscope.
+# This is a repository for the digital microscope based on RaspberryPi and Foldscope.
 
-# troubleshooting notes
+### troubleshooting notes
 - "out of resource" error fixed by running "sudo rpi-update"
